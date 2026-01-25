@@ -8,7 +8,7 @@
 
 <!-- ==================== HEADER SECTION ==================== -->
 
-<h1 align="center">CozyPixels</h1>
+<h1 align="center">Nord-based-wallpapers</h1>
 
 <p align="center">
   🎨 A curated collection of cozy, aesthetic wallpapers for every mood. Features Catppuccin, Nord, Dracula, One Dark themes & more. Perfect for your desktop setup! ✨
