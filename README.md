@@ -31,7 +31,7 @@
         <table>
           <tr>
             <td><img src="Catppuccin/Abstract%20&%20Artistic/dark-waves.jpg" width="150" alt="Catppuccin"></td>
-            <td><img src="Catppuccin/Abstract%20&%20Artistic/painting-standing.jpg" width="150" alt="Catppuccin"></td>
+            <td><img src="Catppuccin/Uncategorized/bluehour.jpg" width="150" alt="Catppuccin"></td>
           </tr>
         </table>
       </td>
